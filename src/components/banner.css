@@ -1,0 +1,51 @@
+.alert {
+    margin-bottom: 0;
+    color: #656464;
+    border: 1px solid transparent;    
+}
+
+.alert-info {
+    
+    background-color:#252525 ;
+    border-color: #252525;
+    height: 70px;
+    padding: 4px;
+}
+
+.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    color: #B78D65;
+    display: flex; 
+    
+       
+  }
+.social:hover {
+    transform: translateY(-2px);
+    color: aqua;
+  }
+
+  .Social {
+    display: flex; 
+    margin: 15px 270px ;
+     
+  }
+  
+.location .find a{
+    color: #656464;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+.location .find p{
+    padding: 5px;
+    margin: 10px 80px ;
+}
+.location{
+    display: flex;
+}
+
+.location .find p span{
+    color: #B78D65;
+}
+

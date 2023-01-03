@@ -1,0 +1,78 @@
+.design{
+    display: flex;
+    padding: 9rem;
+    margin-top: 10px;
+    
+}
+
+.design .first{
+    margin-right: 3rem;
+    background-color: #F8F8F8;
+    padding: 3rem 2rem;   
+}
+.design .second{
+    margin-right: 3rem;
+    background-color: #F8F8F8;
+    padding: 3rem 2rem;   
+}
+
+.design .third{
+    background-color: #F8F8F8;
+    padding: 3rem 2rem;   
+}
+.design h1{
+    font-size: 20px;
+}
+.design img{
+
+    margin-left: 5rem;
+    margin-top: -80px;
+    border-radius: 20px;    
+}
+.about{
+    margin: 5rem;
+    margin-top: 3px;
+}
+.about .about2 img{
+    margin-left: 14rem;
+    margin-top: -24rem;
+}
+ .agency{
+    margin-left: 37rem;
+    margin-top: -38rem;
+}
+.agency h1{
+    color: #B78D65;
+    font-size: 18px;
+}
+.agency h2{
+    font-size: 33px;
+    font-weight: 900;
+    
+}
+.agency h3{
+    font-size: 30px;
+    border-style: solid;
+    border-color: #B78D65;
+    border-width: 5px;
+    margin-left: 10rem;
+    padding: 8px;
+    width: 200px;
+       
+}
+.agency h3 span{
+    margin-left: 50px;
+}
+.agency button{
+    padding: 1rem;
+    background-color: #B78D65;
+    border: none;
+    margin-top: 2rem;
+  }
+  .agency button a{
+    font-size: 22px;
+    color: white;
+  }
+
+ 
+
